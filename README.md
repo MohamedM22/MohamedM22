@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohamedM22 🥸☕️
-- 👨🏾‍💻 I’m interested in Data analysis, python. Outside of tech I love making capopucinos, reading mangas or late night drives. 
-- 👨🏾‍🔧 I’m currently learning python, R and sql.
+- 👨🏾‍💻 I’m interested in Data analysis, python and Java. Outside of tech I love making cappucinons, reading mangas or late night drives. 
+- 👨🏾‍🔧 I’m currently learning Python, R, SQL, Java and getting more familiar with Web development.
 - 👨🏾‍🔬I’m looking to collaborate on fun projects.
 
 
